@@ -9,18 +9,9 @@
 
 ## 🚀 Live Demo
 
-**[View Live Resume →](https://your-resume-url.vercel.app)**
+**[View Live Resume →]([https://your-resume-url.vercel.app](https://portfolio-drab-three-h4mvcbrsiu.vercel.app/))**
 
-## 📸 Screenshots
 
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop-hero.png)
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile-view.png)
-
-### Project Modal
-![Project Modal](./screenshots/project-modal.png)
 
 ## ✨ Features
 
